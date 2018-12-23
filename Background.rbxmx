@@ -1,0 +1,312 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">false</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Frame" referent="RBX202CA87FD2AC4BB0AB6AE693BDE22E6A">
+		<Properties>
+			<bool name="Active">false</bool>
+			<Vector2 name="AnchorPoint">
+				<X>0</X>
+				<Y>0</Y>
+			</Vector2>
+			<bool name="AutoLocalize">true</bool>
+			<Color3 name="BackgroundColor3">4287849107</Color3>
+			<float name="BackgroundTransparency">0</float>
+			<Color3 name="BorderColor3">4279970357</Color3>
+			<int name="BorderSizePixel">1</int>
+			<bool name="ClipsDescendants">false</bool>
+			<bool name="Draggable">false</bool>
+			<int name="LayoutOrder">0</int>
+			<string name="Name">Background</string>
+			<Ref name="NextSelectionDown">null</Ref>
+			<Ref name="NextSelectionLeft">null</Ref>
+			<Ref name="NextSelectionRight">null</Ref>
+			<Ref name="NextSelectionUp">null</Ref>
+			<UDim2 name="Position">
+				<XS>1</XS>
+				<XO>-310</XO>
+				<YS>0</YS>
+				<YO>10</YO>
+			</UDim2>
+			<Ref name="RootLocalizationTable">null</Ref>
+			<float name="Rotation">0</float>
+			<bool name="Selectable">false</bool>
+			<Ref name="SelectionImageObject">null</Ref>
+			<UDim2 name="Size">
+				<XS>0</XS>
+				<XO>300</XO>
+				<YS>0</YS>
+				<YO>400</YO>
+			</UDim2>
+			<token name="SizeConstraint">0</token>
+			<token name="Style">0</token>
+			<BinaryString name="Tags"></BinaryString>
+			<bool name="Visible">true</bool>
+			<int name="ZIndex">1</int>
+		</Properties>
+		<Item class="TextButton" referent="RBXDB825D54BD60464DB84459C8AB669648">
+			<Properties>
+				<bool name="Active">true</bool>
+				<Vector2 name="AnchorPoint">
+					<X>0</X>
+					<Y>0</Y>
+				</Vector2>
+				<bool name="AutoButtonColor">false</bool>
+				<bool name="AutoLocalize">true</bool>
+				<Color3 name="BackgroundColor3">4293125091</Color3>
+				<float name="BackgroundTransparency">0</float>
+				<Color3 name="BorderColor3">4279970357</Color3>
+				<int name="BorderSizePixel">1</int>
+				<bool name="ClipsDescendants">false</bool>
+				<bool name="Draggable">false</bool>
+				<token name="Font">1</token>
+				<int name="LayoutOrder">0</int>
+				<float name="LineHeight">1</float>
+				<bool name="Modal">false</bool>
+				<string name="Name">Title</string>
+				<Ref name="NextSelectionDown">null</Ref>
+				<Ref name="NextSelectionLeft">null</Ref>
+				<Ref name="NextSelectionRight">null</Ref>
+				<Ref name="NextSelectionUp">null</Ref>
+				<UDim2 name="Position">
+					<XS>0</XS>
+					<XO>0</XO>
+					<YS>0</YS>
+					<YO>0</YO>
+				</UDim2>
+				<Ref name="RootLocalizationTable">null</Ref>
+				<float name="Rotation">0</float>
+				<bool name="Selectable">false</bool>
+				<bool name="Selected">false</bool>
+				<Ref name="SelectionImageObject">null</Ref>
+				<UDim2 name="Size">
+					<XS>1</XS>
+					<XO>0</XO>
+					<YS>0</YS>
+					<YO>27</YO>
+				</UDim2>
+				<token name="SizeConstraint">0</token>
+				<token name="Style">0</token>
+				<BinaryString name="Tags"></BinaryString>
+				<string name="Text">Explorer</string>
+				<Color3 name="TextColor3">4278190080</Color3>
+				<bool name="TextScaled">false</bool>
+				<float name="TextSize">14</float>
+				<Color3 name="TextStrokeColor3">4278190080</Color3>
+				<float name="TextStrokeTransparency">1</float>
+				<float name="TextTransparency">0</float>
+				<token name="TextTruncate">0</token>
+				<bool name="TextWrapped">false</bool>
+				<token name="TextXAlignment">2</token>
+				<token name="TextYAlignment">1</token>
+				<bool name="Visible">true</bool>
+				<int name="ZIndex">1</int>
+			</Properties>
+			<Item class="ImageButton" referent="RBXCEF4322E5BC946888E93E9D5AC36F30C">
+				<Properties>
+					<bool name="Active">true</bool>
+					<Vector2 name="AnchorPoint">
+						<X>0</X>
+						<Y>0</Y>
+					</Vector2>
+					<bool name="AutoButtonColor">false</bool>
+					<bool name="AutoLocalize">true</bool>
+					<Color3 name="BackgroundColor3">4294967295</Color3>
+					<float name="BackgroundTransparency">0</float>
+					<Color3 name="BorderColor3">4279970357</Color3>
+					<int name="BorderSizePixel">0</int>
+					<bool name="ClipsDescendants">false</bool>
+					<bool name="Draggable">false</bool>
+					<Content name="HoverImage"><null></null></Content>
+					<Content name="Image"><url>rbxasset://textures/StudioToolbox/AudioPreview/light_pause.png</url></Content>
+					<Color3 name="ImageColor3">4294967295</Color3>
+					<Vector2 name="ImageRectOffset">
+						<X>0</X>
+						<Y>0</Y>
+					</Vector2>
+					<Vector2 name="ImageRectSize">
+						<X>0</X>
+						<Y>0</Y>
+					</Vector2>
+					<float name="ImageTransparency">0</float>
+					<int name="LayoutOrder">0</int>
+					<bool name="Modal">false</bool>
+					<string name="Name">PauseButton</string>
+					<Ref name="NextSelectionDown">null</Ref>
+					<Ref name="NextSelectionLeft">null</Ref>
+					<Ref name="NextSelectionRight">null</Ref>
+					<Ref name="NextSelectionUp">null</Ref>
+					<UDim2 name="Position">
+						<XS>1</XS>
+						<XO>-27</XO>
+						<YS>0</YS>
+						<YO>0</YO>
+					</UDim2>
+					<Content name="PressedImage"><null></null></Content>
+					<Ref name="RootLocalizationTable">null</Ref>
+					<float name="Rotation">0</float>
+					<token name="ScaleType">0</token>
+					<bool name="Selectable">true</bool>
+					<bool name="Selected">false</bool>
+					<Ref name="SelectionImageObject">null</Ref>
+					<UDim2 name="Size">
+						<XS>1</XS>
+						<XO>0</XO>
+						<YS>1</YS>
+						<YO>0</YO>
+					</UDim2>
+					<token name="SizeConstraint">2</token>
+					<Rect2D name="SliceCenter">
+						<min>
+							<X>0</X>
+							<Y>0</Y>
+						</min>
+						<max>
+							<X>0</X>
+							<Y>0</Y>
+						</max>
+					</Rect2D>
+					<token name="Style">0</token>
+					<BinaryString name="Tags"></BinaryString>
+					<UDim2 name="TileSize">
+						<XS>1</XS>
+						<XO>0</XO>
+						<YS>1</YS>
+						<YO>0</YO>
+					</UDim2>
+					<bool name="Visible">true</bool>
+					<int name="ZIndex">1</int>
+				</Properties>
+			</Item>
+			<Item class="LocalScript" referent="RBXCBAF5BE291ED4726ABB36BAECC79458D">
+				<Properties>
+					<bool name="Disabled">false</bool>
+					<Content name="LinkedSource"><null></null></Content>
+					<string name="Name">TitleOperator</string>
+					<string name="ScriptGuid">{174A95B7-0D8E-48B5-8EC1-19FD3058CDF9}</string>
+					<ProtectedString name="Source"><![CDATA[local function print() end
+
+-- Location Indexes
+local UserInputService = game:GetService("UserInputService")
+
+local GUI = script.Parent.Parent.Parent
+local Main = GUI.Main
+local UseDark = GUI.UseDark
+local IsPaused = GUI.IsPaused
+
+local Background = script.Parent.Parent
+local PauseButton = script.Parent.PauseButton
+
+-- Modules
+local Themes = require(Main.Themes)
+local CurrentTheme;
+
+-- Variables
+local SnappingDistance = 10 -- In pixels
+
+local Play = "rbxasset://textures/StudioToolbox/AudioPreview/light_play.png"
+local Play_Hover = "rbxasset://textures/StudioToolbox/AudioPreview/light_play_hover.png"
+local Pause = "rbxasset://textures/StudioToolbox/AudioPreview/light_pause.png"
+local Pause_Hover = "rbxasset://textures/StudioToolbox/AudioPreview/light_pause_hover.png"
+
+local Mouse = game:GetService("Players").LocalPlayer:GetMouse()
+local Dragging = false
+local Offset = Vector2.new()
+
+local Connections = {
+	ThemeChanged,
+	PauseStatusChanged,
+	PauseButtonClicked,
+	KillConnections,
+	TitleMouseDown,
+}
+
+-- Functions
+local function OnThemeChange(UseDark)
+	if UseDark then
+		CurrentTheme = Themes.Dark
+	else
+		CurrentTheme = Themes.Light
+	end
+	PauseButton.BackgroundColor3 = CurrentTheme.Titlebar
+	print("Theme updated to", UseDark)
+end
+
+local function OnPauseStatusChanged(IsPaused)
+	if IsPaused then
+		PauseButton.Image = Play
+		PauseButton.HoverImage = Play_Hover
+	else
+		PauseButton.Image = Pause
+		PauseButton.HoverImage = Pause_Hover
+	end
+	print("PauseStatus changed to", IsPaused)
+end
+
+local function OnPauseButtonClicked()
+	IsPaused.Value = not IsPaused.Value
+end
+
+local function OnTitleBarClicked()
+	Dragging = true
+	local AbsPos = script.Parent.Parent.AbsolutePosition
+	Offset = Vector2.new(AbsPos.X-Mouse.X, AbsPos.Y-Mouse.Y)
+	
+	repeat wait() until UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) == false
+	Dragging = false
+end
+
+local clamp, UDim2_new = math.clamp, UDim2.new
+local function DragBinding()
+	if not Dragging then return end
+	local OffX, OffY = Mouse.X+Offset.X, Mouse.Y+Offset.Y
+	
+	local SizeX, SizeY = Background.AbsoluteSize.X, Background.AbsoluteSize.Y
+	
+	local FarEdgeX, FarEdgeY = Background.Parent.AbsoluteSize.X-SizeX, Background.Parent.AbsoluteSize.Y-SizeY
+	
+	OffX = math.clamp(OffX, -(SizeX-SnappingDistance), (FarEdgeX+SizeX)-SnappingDistance)
+	OffY = math.clamp(OffY, -(SizeY-SnappingDistance), (FarEdgeY+SizeY)-SnappingDistance)
+	
+	if math.abs(OffX) <= SnappingDistance then OffX = 0 end
+	if math.abs(OffY) <= SnappingDistance then OffY = 0 end
+	
+	if OffX+SnappingDistance >= FarEdgeX and OffX-SnappingDistance <= FarEdgeX then OffX = FarEdgeX end 
+	if OffY+SnappingDistance >= FarEdgeY and OffY-SnappingDistance <= FarEdgeY then OffY = FarEdgeY end 
+	
+	Background.Position = UDim2.new(0, OffX, 0, OffY)
+end
+
+-- Connections
+Connections.ThemeChanged = UseDark.Changed:Connect(OnThemeChange)
+Connections.PauseStatusChanged = IsPaused.Changed:Connect(OnPauseStatusChanged)
+Connections.PauseButtonClicked = PauseButton.MouseButton1Click:Connect(OnPauseButtonClicked)
+
+Connections.TitleMouseDown = script.Parent.MouseButton1Down:Connect(OnTitleBarClicked)
+
+game:GetService("RunService"):BindToRenderStep("DekkonotExplorerDrag", Enum.RenderPriority.Camera.Value-1, DragBinding)
+
+if GUI.ResetOnSpawn then
+	Connections.KillConnections = game:GetService("Players").LocalPlayer.CharacterRemoving:Connect(function()
+		for _, Type in pairs(Connections) do
+			if type(Type) == "table" then
+				for _, Connection in ipairs(Type) do
+					Connection:Disconnect()
+				end
+			else
+				Type:Disconnect()
+			end
+		end
+	end)
+	game:GetService("RunService"):UnbindFromRenderStep("DekkonotExplorerDrag")
+end
+
+-- Initialization
+OnThemeChange(UseDark.Value)
+OnPauseStatusChanged(IsPaused.Value)]]></ProtectedString>
+					<BinaryString name="Tags"></BinaryString>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+</roblox>

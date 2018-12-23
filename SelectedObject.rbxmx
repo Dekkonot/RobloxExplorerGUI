@@ -1,0 +1,12 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">false</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="ObjectValue" referent="RBX0D2773244D9A4221B930819124EFE7A5">
+		<Properties>
+			<string name="Name">SelectedObject</string>
+			<BinaryString name="Tags"></BinaryString>
+			<Ref name="Value">null</Ref>
+		</Properties>
+	</Item>
+</roblox>

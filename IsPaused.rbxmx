@@ -1,0 +1,12 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">false</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="BoolValue" referent="RBX0CD863D180204B4798584805F72BA25C">
+		<Properties>
+			<string name="Name">IsPaused</string>
+			<BinaryString name="Tags"></BinaryString>
+			<bool name="Value">false</bool>
+		</Properties>
+	</Item>
+</roblox>
